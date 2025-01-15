@@ -14,7 +14,7 @@ To create a dashboard that provides actionable insights into pizza sales trends,
 
 
 ## Process
-- Verifoed dada for any missing values and anomalies, and sort out the same.
+- Verify dada for any missing values and anomalies, and sort out the same.
 - Make sure data is consistent and clean with respect to data type,data format and values used.
 - Created pivot tales according to the questions asked
 - Merge all pivot tables into one dashboard and apply slicer to make it dynamic.
