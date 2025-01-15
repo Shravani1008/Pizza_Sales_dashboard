@@ -1,2 +1,5 @@
-# Pizza_Sales_dashboard
-The dashboard provides a detailed visualization of pizza sales performance. The goal is to analyze and monitor the sales performance of a pizza business.
+# Pizza_Sales_dashboard (Interactive Dashboard using MS Excel)
+## Project Objective
+To create a dashboard that provides actionable insights into pizza sales trends, customer preferences, and business performance, enabling data-driven decisions to boost revenue and optimize operations.
+
+
